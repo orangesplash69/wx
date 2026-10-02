@@ -15,6 +15,9 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
+Want to type just `wx tokyo` from anywhere? See [INSTALL.md](INSTALL.md) for Windows,
+Debian/Ubuntu and Arch.
+
 ## Usage
 
 ```bash
