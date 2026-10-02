@@ -1,0 +1,7 @@
+# Core — required.
+requests>=2.28
+rich>=13.7
+
+# Optional — only used by `--geo latlng`, which also needs LATLNG_API_KEY.
+# The app falls back to Open-Meteo geocoding (no key) if this is absent.
+latlng; python_version >= "3.9"

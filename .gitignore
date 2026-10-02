@@ -1,0 +1,19 @@
+main_old.py
+__pycache__/
+.venv/
+
+# Secrets — key.txt holds a live API key and must never be committed.
+key.txt
+*.key
+.env
+
+
+# Pre-rewrite snapshots
+backup-*/
+test_wx.py
+main_old.py
+main_new.py
+
+# Temporary files
+*.tmp
+
