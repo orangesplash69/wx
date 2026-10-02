@@ -17,3 +17,4 @@ main_new.py
 # Temporary files
 *.tmp
 *.bak
+.gitignore
