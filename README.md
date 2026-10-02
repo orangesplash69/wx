@@ -1,4 +1,4 @@
-# StormLens
+# wx
 
 A terminal weather report built with rich and
 the free [Open-Meteo](https://open-meteo.com) API. Current conditions in ASCII art
